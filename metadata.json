@@ -1,0 +1,8 @@
+{
+  "name": "CodeSync — Real-Time Collaborative Python IDE",
+  "description": "Production-quality real-time collaborative Python IDE with CRDT consistency, offline synchronization, E2E encryption, sandboxed execution, and AI coding assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
